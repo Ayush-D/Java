@@ -6,6 +6,6 @@ import java.sql.SQLOutput;
 public class HelloWorld {
     public static void main(String[] args) {
     //        Gargbage Collection
-        System.out.println("Welcome to Java");
+        System.out.println("Welcome to C++");
     }
 }
